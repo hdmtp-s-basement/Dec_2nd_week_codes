@@ -13,7 +13,7 @@ contribs = user.contributions()
 contribs_2021 = user.contributions(
     start_date='2021-12-08', end_date=str(date.today()))
 
-sc = f"\n**{datetime_NY}** | **{sum([day.count for day in contribs_2021.days])}**"
+sc = f"**{datetime_NY}** | **{sum([day.count for day in contribs_2021.days])}**"
 
 f = open("README.md", "a")
 f.write(sc)
