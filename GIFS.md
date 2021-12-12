@@ -5,3 +5,6 @@
 <hr>
 
 ![shitson(1)](https://user-images.githubusercontent.com/65482473/145676647-caf58524-d42c-4b15-a30a-161882bbf491.gif)
+<hr>
+
+![ujointhemindeath(1)](https://user-images.githubusercontent.com/65482473/145708582-55728f4a-7a17-4d53-b868-a149626fa41b.gif)
